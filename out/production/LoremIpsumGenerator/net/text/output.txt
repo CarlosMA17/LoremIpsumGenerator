@@ -1,0 +1,10 @@
+El texto lleva la 'e' 114 veces
+
+El texto lleva la 'a' 99 veces
+
+El texto lleva la 'o' 79 veces
+
+El texto lleva la 'i' 117 veces
+
+El texto lleva la 'u' 97 veces
+
